@@ -1,0 +1,35 @@
+.DescrVoirSondage {
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+    margin: 50px auto auto auto;
+    width: 1000px;
+    text-align: center;
+}
+
+table {
+    border: medium solid #1E7FCB;
+    width: 90%;
+    border-collapse: collapse;
+    margin: auto;
+    }
+   
+td, th {
+    border: thin solid #6495ed;
+    width: auto;
+    padding: 10px;
+    text-align: center;
+}
+thead{
+    font-family: 'Limelight', cursive;
+    color: #1E7FCB;
+    
+    font-size: 25px;
+
+}
+tbody{
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+}
+

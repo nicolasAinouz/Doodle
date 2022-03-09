@@ -1,0 +1,96 @@
+.label {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    margin: auto auto 10px auto;
+}
+
+.input {
+    width: 80%;
+    background-color: rgba(30, 127, 203, 0.8);
+    border: solid #22427C 2px;
+    color: white;
+    height: 25px;
+    font-size: 20px;
+    margin: auto auto 45px auto;
+    font-family: 'Lato', sans-serif, monospace;
+}
+
+.XL{
+    
+    height:10em;
+    display:inline-block;
+}
+
+.boutonMenu {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 700px;
+    margin: 0px auto 50px auto;
+
+}
+
+.titleEvent {
+    color: #1E7FCB;
+    text-decoration: underline;
+}
+
+.formulaire {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.classConnection {
+    border: solid #1E7FCB 3px;
+    height: auto;
+    width: 500px;
+    margin: 50px auto auto auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.errors {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin: auto auto 10px auto;
+    color: red;
+    text-align: center;
+}
+
+.validateBouton {
+    border: solid #1E7FCB 2px;
+    background-color: rgba(30, 127, 203, 0.8);
+    color: white;
+    margin: auto auto 50px auto;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.validateBouton:hover {
+    border: solid #22427C 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.nbDate {
+    background-color: #1E7FCB;
+    color: white;
+    margin: auto auto 50px auto;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cle {
+    background-color: #1E7FCB;
+    color: white;
+    margin: auto auto 50px auto;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+}

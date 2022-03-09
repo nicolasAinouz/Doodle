@@ -1,0 +1,77 @@
+.SondageDescr {
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+    margin: 50px auto auto auto;
+    width: auto;
+    text-align: center;
+}
+.dateAffiche {
+    border: solid #1E7FCB 3px;
+    height: auto;
+    width: 500px;
+    margin: auto auto auto auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.boutonRep{
+    border: solid #1E7FCB 2px;
+    background-color: rgba(30, 127, 203, 0.8);
+    color: white;
+    margin: 25px auto 50px auto;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+
+}
+.boutonRep:hover {
+    border: solid #22427C 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.divButton {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.oui{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+}
+
+.non {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+}
+
+.validateBoutonrep {
+    border: solid #1E7FCB 2px;
+    background-color: rgba(30, 127, 203, 0.8);
+    color: white;
+    margin: 25px auto 50px auto;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.validateBoutonrep:hover {
+    border: solid #22427C 2px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.errors {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin: auto auto 10px auto;
+    color: red;
+    text-align: center;
+}

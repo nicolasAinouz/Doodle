@@ -1,0 +1,57 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: white;
+}
+
+.titleEvent {
+    color: #1E7FCB;
+    text-decoration: underline;
+}
+
+.classDescriptionEvent {
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+    margin: 50px auto auto auto;
+    width: 1000px;
+    text-align: center;
+}
+
+.classBoutonEvent {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 700px;
+    margin: 100px auto 100px auto;
+
+}
+
+.boutonEvent {
+    background-color: #1E7FCB;
+    color : white;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    height: 40px;
+    width: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.boutonEvent:hover{
+    text-decoration: underline;
+}
+
+.idCompte {
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+    text-align: center;
+}

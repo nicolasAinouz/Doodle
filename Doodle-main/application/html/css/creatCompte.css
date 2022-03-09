@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: white;
+}
+
+.classConnection {
+    border: solid #1E7FCB 3px;
+    height: auto;
+    width: 500px;
+    margin: 50px auto auto auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.connectezVous {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    background-color: #1E7FCB;
+    border: solid #22427C 2px;
+    color: white;
+    margin: 35px 20px;
+}
+
+.formulaire {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.label {
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    margin: auto auto 10px auto;
+}
+
+.input {
+    width: 80%;
+    border: solid #1E7FCB 2px;
+    background-color: rgba(30, 127, 203, 0.8);
+    border: solid #22427C 2px;
+    color: white;
+    height: 25px;
+    font-size: 20px;
+    margin: auto auto 45px auto;
+}
+
+.footer {
+    margin: 19px 150px 0px 150px;
+}
+
+.validateBouton {
+    border: solid #1E7FCB 2px;
+    background-color: rgba(30, 127, 203, 0.8);
+    color: white;
+    margin: auto auto 50px auto;
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.validateBouton:hover {
+    border: solid #22427C 2px;
+    cursor: pointer;
+    font-weight: bold;
+}

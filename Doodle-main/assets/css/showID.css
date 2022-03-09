@@ -1,0 +1,35 @@
+.descrID {
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+    margin: 50px auto auto auto;
+    width: auto;
+    text-align: center;
+}
+
+.divcleID {
+    border: solid #1E7FCB 3px;
+    height: auto;
+    width: 500px;
+    margin: 50px auto auto auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.cleID {
+    font-family: 'Lato', sans-serif;
+    color: #1E7FCB;
+    font-size: 25px;
+    margin: auto auto auto auto;
+    width: auto;
+    text-align: center;
+}
+
+.info {
+    font-style: italic;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: rgba(30, 127, 203, 0.8);
+    margin: 50px auto auto auto;
+    line-height: 50px;
+}
