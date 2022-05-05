@@ -1,2 +1,2 @@
 # Doodle
-Realiser avec code igniter
+Ce projet a été réalisé entièrement avec CodeIgniter. 
